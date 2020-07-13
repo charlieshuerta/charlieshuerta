@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hola, soy Carlos 👋
+Soy un apasionado por las tecnologías web relacionadas a JS. Actualmente estoy aprendiendo *Javascript* en una de las mejores plataformas de aprendizaje online, **Platzi**, además de realizar pequeños proyectos que comparto en mi GitHub utilizando diferentes tecnologías web que voy aprendiendo.
+
+#### Redes Sociales 📫
+- [LinkedIn](https://www.linkedin.com/in/juancarlos-huertavazquez/)
+- [Twitter](https://twitter.com/charlieshuerta)
 
 <!--
 **charlieshuerta/charlieshuerta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
