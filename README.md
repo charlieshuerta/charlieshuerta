@@ -1,11 +1,7 @@
-### Hola, soy Carlos 👋
-Soy un apasionado por las tecnologías web. Actualmente estoy tomando diferentes cursos en una de las mejores plataformas de aprendizaje online, **Platzi**, en mis tiempos libres hago pequeños proyectos web para poner a prueba lo que voy aprendiendo en los cursos.
+## Hola, soy Carlos 👋
+Soy un apasionado por las tecnologías web. Actualmente estoy tomando diferentes cursos en una de las mejores plataformas de aprendizaje online, **Platzi**, entre mis hobbys esta el jugar a videojuegos, leer libros, articulos en internet o comics, ademas de hacer pequeños proyectos web para poner a prueba lo que voy aprendiendo en los cursos.
 
-#### Contactame en mis redes sociales 📫
-- [LinkedIn](https://www.linkedin.com/in/juancarlos-huertavazquez/)
-- [Twitter](https://twitter.com/charlieshuerta)
-- [Platzi](https://platzi.com/@charlieshuerta/)
-
+### Skills
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
