@@ -1,7 +1,7 @@
 ### Hola, soy Carlos 👋
-Soy un apasionado por las tecnologías web relacionadas a JS. Actualmente estoy tomando la *Carrera de Javascript* en una de las mejores plataformas de aprendizaje online, **Platzi**, además en tiempos libres hago pequeños proyectos utilizando diferentes tecnologías web que voy aprendiendo ya sea tomando cursos o en base a la documentación oficial.
+Soy un apasionado por las tecnologías web. Actualmente estoy tomando diferentes cursos en una de las mejores plataformas de aprendizaje online, **Platzi**, en mis tiempos libres hago pequeños proyectos web para poner a prueba lo que voy aprendiendo en los cursos.
 
-#### Redes Sociales 📫
+#### Contactame en mis redes sociales 📫
 - [LinkedIn](https://www.linkedin.com/in/juancarlos-huertavazquez/)
 - [Twitter](https://twitter.com/charlieshuerta)
 - [Platzi](https://platzi.com/@charlieshuerta/)
