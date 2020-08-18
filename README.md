@@ -1,6 +1,10 @@
 ## Hola, soy Carlos 👋
 Soy un apasionado por las tecnologías web. Actualmente estoy tomando diferentes cursos en una de las mejores plataformas de aprendizaje online, **Platzi**, entre mis hobbys esta el jugar a videojuegos, leer libros, articulos en internet o comics, ademas de hacer pequeños proyectos web para poner a prueba lo que voy aprendiendo en los cursos.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlieshuerta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=charlieshuerta&show_icons=true&theme=radical)
+
 ### Skills
 <p align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
