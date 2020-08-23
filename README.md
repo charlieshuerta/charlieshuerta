@@ -3,8 +3,7 @@ Soy un apasionado por las tecnologías web. Actualmente estoy tomando diferentes
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlieshuerta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=charlieshuerta&show_icons=true&theme=radical)
-
+<!--
 ### Skills
 <p align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
@@ -14,6 +13,7 @@ Soy un apasionado por las tecnologías web. Actualmente estoy tomando diferentes
 <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
 </p>
+-->
 
 <p align="center">
 <a href="https://twitter.com/charlieshuerta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="charlieshuerta" height="30" width="30" /></a>
@@ -34,4 +34,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=charlieshuerta&show_icons=true&theme=radical)
+
 -->
