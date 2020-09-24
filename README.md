@@ -1,5 +1,7 @@
 # console.log('Hello World! 👋')
-Apasionado por las tecnologías web, autodidacta. Actualmente estoy tomando cursos en una de las mejores plataformas de aprendizaje online en latinoamerica, **Platzi**, entre mis hobbys esta leer articulos en internet, libros o comics, resolver problemas de lógica de programación, ademas de hacer pequeños proyectos web para poner a prueba lo que voy aprendiendo en los cursos.
+Soy un apasionado por la tecnología, en lo relacionado al desarrollo web me gusta aprender de las nuevas tecnologías y ponerlas en practica, he tomando cursos en una de las mejores plataformas de aprendizaje online en latinoamerica, ***Platzi***, entre mis hobbys esta leer libros, comics o articulos en internet.
+
+He trabajo en sistemas oeprativos Windows y Linux, dado mantenimiento a cableado de red y equipos de computo, capacitación a nuevo personal en el uso de los equipos y programas informaticos.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlieshuerta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
