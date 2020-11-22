@@ -16,11 +16,16 @@
 </p>
 -->
 
+<!--REDES SOCIALES-->
 <p align="center">
+<!--  
 <a href="https://twitter.com/charlieshuerta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="charlieshuerta" height="30" width="30" /></a>
+-->
 <a href="https://linkedin.com/in/juancarlos-huertavazquez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="juancarlos-huertavazquez" height="30" width="30" /></a>
+<!--
 <a href="https://medium.com/@charlieshuerta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@charlieshuerta" height="30" width="30" /></a>
 </p>
+-->
 
 <!--
 **charlieshuerta/charlieshuerta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
