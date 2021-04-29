@@ -1,3 +1,19 @@
+# Hi, I'm Carlos 👋🏽
+
+## About me...
+```js
+const jcarloshuertav = {
+  pronouns: "he/him",
+  code: ["HTML", "CSS", "JavaScript"],
+  design: ["Adobe Photoshop", "Adobe Illustrator"],
+  links: [{
+    linkedin: "https://www.linkedin.com/in/jcarloshuertav/",
+    twitter: "https://twitter.com/devcharles",
+    blog: "https://devcharles.blogspot.com/",
+  }],
+}
+```
+
 <!--
 **charlieshuerta/charlieshuerta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
